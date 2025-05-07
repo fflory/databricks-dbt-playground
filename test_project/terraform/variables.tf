@@ -1,6 +1,6 @@
 variable "db_catalog" {
   type = string
-  default = "main"
+  default = "uc_demos_felix_flory"
   description = "Name of the catalog to use"
 }
 
